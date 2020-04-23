@@ -1,0 +1,7 @@
+datapackage
+Flask
+Flask-API
+gunicorn
+pandas-datapackage-reader
+requests
+tableschema

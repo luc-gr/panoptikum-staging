@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+dataflows = "*"
+pandas-datapackage-reader = "*"
+flask-api = "*"
+gunicorn = "*"
+hypercorn = "*"
+
+[requires]
