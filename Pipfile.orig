@@ -10,5 +10,6 @@ dataflows = "*"
 pandas-datapackage-reader = "*"
 flask-api = "*"
 gunicorn = "*"
+# hypercorn = "*"
 
 [requires]

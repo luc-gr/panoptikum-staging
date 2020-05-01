@@ -192,6 +192,14 @@
             ],
             "version": "==3.0.0"
         },
+        "hypercorn": {
+            "hashes": [
+                "sha256:8311b01c1003724f378b6cf619db3c913441a447216a00ecdd796143c5e4d47a",
+                "sha256:9ea50c5fee26cd3b7e342eb307953641f4c79c9e87dbc2e7529678601952a9aa"
+            ],
+            "index": "pypi",
+            "version": "==0.9.1"
+        },
         "hyperframe": {
             "hashes": [
                 "sha256:5187962cb16dcc078f23cb5a4b110098d546c3f41ff2d4038a9896893bbd0b40",
