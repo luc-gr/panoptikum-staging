@@ -43,7 +43,7 @@ def send_home():
 def send_static(path):
     return send_from_directory('static', path)
 
-@app.route('http://www.luc.gr/pano/images/<path:path>')
+@app.route('http\://www.luc.gr/pano/images/<path:path>')
 def send_images(path):
     return send_from_directory('images', path)
 
