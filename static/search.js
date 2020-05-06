@@ -252,7 +252,7 @@ function werkSearchStart(e, from_page, random) {
       $tgt.append(
 
         '<div class="col-sm-2 item">' +
-          '<img src="' + item.thumb + '" />' +
+          '<img src="http://www.luc.gr/pano/' + item.thumb + '" />' +
           // '<small>' + item.Nummer + '</small>' +
         '</div>'
 
