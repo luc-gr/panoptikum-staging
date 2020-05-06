@@ -20,3 +20,7 @@ yarn-error.log
 __pycache__
 env/
 shell/
+
+.swp
+.git.zip
+.git 2.zip
