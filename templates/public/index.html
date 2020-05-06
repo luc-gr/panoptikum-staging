@@ -15,7 +15,12 @@
 
     <link rel="stylesheet" href="/static/custom.css">
   </head>
-  <body>
+  <body onLoad="dynPagetitle();">
+<script>
+function dynPagetitle() {
+  document.title = 'pano-deploy @ ' + location.hostname;
+}
+</script>
     <div class="top container" id="browser">
 
       <div class="page-header" id="banner">
