@@ -271,7 +271,8 @@ function werkSearchStart(e, from_page, random) {
               pswpGallery.invalidateCurrItems();
               pswpGallery.updateSize(true);
             }
-            img.src = 'http://www.luc.gr/pano/' + item.src;
+            // img.src = item.src;
+            img.src = 'gugus';
           }
         });
         pswpGallery.init();
