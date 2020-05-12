@@ -1,6 +1,7 @@
 #!/bin/bash
 
-source=`pwd`/images
+#source=`pwd`/images
+source=`pwd`/../pano-data
 tgt=thumb
 
 for dir in ${source}/WV_ab*/

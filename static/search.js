@@ -237,8 +237,9 @@ function werkSearchStart(e, from_page, random) {
     var pswpElement = $('.pswp')[0];
     var pswpItems = [];
     var pswpGallery = null;
-    var urlPrefix = "http://moirasia.datalets.ch/"
+    // var urlPrefix = "http://moirasia.datalets.ch/"
     // var urlPrefix = "http://new.luc.gr/pano/"
+    var urlPrefix = "http://archiv.juergstraumann.ch/"
 
     // Create item index
     data.forEach(function(item, ix) {
